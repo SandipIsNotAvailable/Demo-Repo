@@ -12,4 +12,8 @@ To lazy to write...
 - Second 
 - Third 
 
-`code`
+---
+`Hello world`
+---
+
+[Image](https://www.SunilJoshi.com)
