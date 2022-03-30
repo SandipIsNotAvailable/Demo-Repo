@@ -16,4 +16,6 @@ To lazy to write...
 `Hello world`
 ---
 
-[Image](https://www.SunilJoshi.com)
+[Link](https://www.SunilJoshi.com)
+
+![alt text](image.jpg)
